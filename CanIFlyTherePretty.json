@@ -31065,7 +31065,8 @@
       "status":"exists"
    },
    "ETHM":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"EDRE"
    },
    "ETHN":{
       "status":"exists"
@@ -31736,7 +31737,8 @@
       "status":"exists"
    },
    "FAJS":{
-      "status":"exists"
+      "status":"renamed",
+	  "simIcao":"FAOR"
    },
    "FAKD":{
       "status":"exists"
@@ -57553,7 +57555,8 @@
       "simIcao":"KPRZ"
    },
    "Q35":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KJTC"
    },
    "Q37":{
       "status":"renamed",
