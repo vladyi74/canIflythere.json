@@ -7094,7 +7094,8 @@
       "simIcao":"9CL9"
    },
    "2Q3":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KDWA"
    },
    "2Q5":{
       "status":"missing"
@@ -11891,7 +11892,8 @@
       "status":"missing"
    },
    "4SD":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KRTS"
    },
    "4T6":{
       "status":"renamed",
@@ -46900,7 +46902,8 @@
       "status":"exists"
    },
    "LKOT":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"LKZL"
    },
    "LKPA":{
       "status":"exists"
@@ -49568,7 +49571,8 @@
       "status":"exists"
    },
    "MMDM":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"MM01"
    },
    "MMDO":{
       "status":"exists"
@@ -50287,7 +50291,8 @@
       "simIcao":"MP22"
    },
    "MP0E":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"MPCL"
    },
    "MP0F":{
       "status":"missing"
@@ -54018,7 +54023,8 @@
       "status":"exists"
    },
    "O17":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KGOO"
    },
    "O18":{
       "status":"exists"
@@ -54051,7 +54057,8 @@
       "status":"exists"
    },
    "O31":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KHES"
    },
    "O32":{
       "status":"exists"
@@ -70071,7 +70078,8 @@
       "status":"exists"
    },
    "X68":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KTTS"
    },
    "XBEL":{
       "status":"missing"
@@ -71514,7 +71522,8 @@
       "status":"exists"
    },
    "YWOL":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"YSHL"
    },
    "YWRN":{
       "status":"exists"
