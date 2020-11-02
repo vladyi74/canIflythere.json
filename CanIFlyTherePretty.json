@@ -31901,7 +31901,8 @@
       "status":"exists"
    },
    "FAPP":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"FAQR"
    },
    "FAPQ":{
       "status":"exists"
@@ -50333,7 +50334,8 @@
       "status":"exists"
    },
    "MPRH":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"MPSM"
    },
    "MPSA":{
       "status":"exists"
@@ -63980,7 +63982,8 @@
       "status":"missing"
    },
    "SWRD":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"SBRD"
    },
    "SWRO":{
       "status":"exists"
@@ -67265,7 +67268,8 @@
       "status":"exists"
    },
    "VGZR":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"VGHS"
    },
    "VHHH":{
       "status":"exists"
@@ -70570,7 +70574,8 @@
       "status":"exists"
    },
    "YBMC":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"YBSU"
    },
    "YBMK":{
       "status":"exists"
@@ -71239,7 +71244,8 @@
       "status":"exists"
    },
    "YPEC":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"YLMQ"
    },
    "YPED":{
       "status":"exists"
