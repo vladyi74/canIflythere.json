@@ -11151,7 +11151,8 @@
       "status":"exists"
    },
    "4G6":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KHTF"
    },
    "4G7":{
       "status":"exists"
@@ -22899,7 +22900,8 @@
       "status":"exists"
    },
    "BYS":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KBYS"
    },
    "C00":{
       "status":"exists"
@@ -44387,7 +44389,8 @@
       "status":"missing"
    },
    "L12":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KREI"
    },
    "L17":{
       "status":"exists"
@@ -44484,7 +44487,8 @@
       "status":"exists"
    },
    "L64":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"CN64"
    },
    "L65":{
       "status":"exists"
@@ -49464,7 +49468,8 @@
       "simIcao":"MM70"
    },
    "MM2L":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"MMDA"
    },
    "MM2M":{
       "status":"renamed",
@@ -56702,7 +56707,8 @@
       "status":"exists"
    },
    "PACY":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"0AA1"
    },
    "PACZ":{
       "status":"exists"
