@@ -65971,7 +65971,8 @@
       "simIcao":"UK61"
    },
    "UK10":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EG29"
    },
    "UK11":{
       "status":"exists"
