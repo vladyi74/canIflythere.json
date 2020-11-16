@@ -35754,7 +35754,8 @@
       "status":"exists"
    },
    "HL0A":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"HLUB"
    },
    "HL0B":{
       "status":"renamed",
@@ -35907,7 +35908,8 @@
       "status":"exists"
    },
    "HLNM":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"HL81"
    },
    "HLON":{
       "status":"exists"
