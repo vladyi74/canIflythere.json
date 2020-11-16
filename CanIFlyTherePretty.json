@@ -2278,7 +2278,8 @@
       "status":"exists"
    },
    "0R3":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KIYA"
    },
    "0R4":{
       "status":"exists"
@@ -21206,7 +21207,8 @@
       "status":"missing"
    },
    "9K4":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KRCM"
    },
    "9K5":{
       "status":"exists"
@@ -42140,7 +42142,8 @@
       "status":"exists"
    },
    "KNHZ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KBXM"
    },
    "KNID":{
       "status":"exists"
