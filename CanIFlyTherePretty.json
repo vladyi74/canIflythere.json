@@ -9729,7 +9729,7 @@
       "status":"exists"
    },
    "3TX6":{
-      "status":"exists"
+      "status":"missing"
    },
    "3TX7":{
       "status":"exists"
@@ -50306,7 +50306,8 @@
 	  "simIcao":"MPCL"
    },
    "MP0F":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"MPCM"
    },
    "MP0G":{
       "status":"renamed",
@@ -55489,7 +55490,8 @@
       "status":"missing"
    },
    "OM0B":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"OMBY"
    },
    "OM0C":{
       "status":"renamed",
@@ -71641,7 +71643,8 @@
       "status":"exists"
    },
    "Z08V":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"SK32"
    },
    "Z08W":{
       "status":"missing"
